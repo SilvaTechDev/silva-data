@@ -4,5 +4,11 @@
     "username": "testuser2",
     "password_hash": "$2b$10$Boo7XfSqo110EmSpBIbdDehLuuzkdLSFDEfjVfooX50.YTpgBfS7C",
     "created_at": "2026-02-09T12:33:40.452Z"
+  },
+  {
+    "id": 2,
+    "username": "silva",
+    "password_hash": "$2b$10$AyaNeZVedLqWgoX8iW.7.eKNnjf4yr2BkT7rmqd0B5APCkuxuq6Bq",
+    "created_at": "2026-02-09T12:38:02.973Z"
   }
 ]
